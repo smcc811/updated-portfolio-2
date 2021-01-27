@@ -1,0 +1,49 @@
+/* h1 style */
+.container {
+  background-color: light grey;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+/* body style */
+
+/*response style */
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+/* footer style */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.foliolinks {
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
